@@ -1,0 +1,14 @@
+{
+  "name": "demo-mdx-deck",
+  "version": "0.0.0",
+  "description": "Sandbox for exploring mdx-deck",
+  "main": "index.js",
+  "scripts": {
+    "start": "mdx-deck demo-presentation.mdx"
+  },
+  "author": "Rob Brennan <rob@therobbrennan.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "mdx-deck": "^1.7.7"
+  }
+}
